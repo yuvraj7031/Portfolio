@@ -1,4 +1,4 @@
-const projects = [
+const Projects = [
   {
     title: "AI Integrated Blog Platform",
     image: "/projects/blog.png",
@@ -26,4 +26,4 @@ const projects = [
   
 ];
 
-export default projects;
+export default Projects;
